@@ -1,0 +1,1 @@
+Ejecutar "npm i" en la consola, una vez instaladas las dependencias escribimos en la consola "node index.js" para ejecutar.
